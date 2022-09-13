@@ -235,7 +235,6 @@ nav ul li a:hover::after{
 .layer h3{
     font-weight: 500;
     margin-bottom: 20px;
-
 }
 .layer a{
     margin-top: 20px;
@@ -309,7 +308,6 @@ nav ul li a:hover::after{
 
 .contact-right form{
     width: 100%;
-
 }
 form input, form textarea{
     width: 100%;
@@ -327,7 +325,6 @@ form .btn2{
     font-size: 18px;
     margin-top: 20px;
     cursor: pointer;
-
 }
 
 .copyright{
