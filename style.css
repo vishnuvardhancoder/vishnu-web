@@ -461,14 +461,11 @@ nav .fa-solid{
     pointer-events: none;
     transition: all 0.3s ease;
 }
-
  .to-top.active{
     bottom: 30px;
     opacity: 1;
     pointer-events: auto;
 }
-
-
 #icon{
     width: 30px;
     cursor: pointer;
