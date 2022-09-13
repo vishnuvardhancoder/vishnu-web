@@ -34,9 +34,7 @@ nav{
 }
 .logo{
     width: 150px;
-
 }
-
 nav ul li{
     display: inline-block;
     list-style: none;
@@ -60,7 +58,6 @@ nav ul li a::after{
 }
 nav ul li a:hover::after{
     width: 100%;
-
 }
 .header-text{
     margin-top: 20%;
