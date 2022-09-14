@@ -99,7 +99,6 @@ nav ul li a:hover::after{
 }
 .about-col-1{
     flex-basis: 35%;
-
 }
 .about-col-1 img{
     width: 100%;
